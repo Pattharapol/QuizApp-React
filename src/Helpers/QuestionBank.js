@@ -5,6 +5,20 @@ export const Questions = [
         optionB: "21",
         optionC: "4",
         optionD: "2",
-        answer: "optionC",
-    }
+        answer: "C",
+    }, {
+        prompt: "Which is Streaming Platform",
+        optionA: "Twitter",
+        optionB: "Twitch",
+        optionC: "Google",
+        optionD: "Robinhood",
+        answer: "B",
+    }, {
+        prompt: "Best Tech youtube channel",
+        optionA: "PedroTech",
+        optionB: "Dev Ed",
+        optionC: "Fireship",
+        optionD: "TechWithTim",
+        answer: "A",
+    },
 ]
